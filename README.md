@@ -34,13 +34,3 @@ Due to GitHub file size limitations for large signal files, the test dataset is 
 
 👉 **[Download full UT-HAR Test Dataset on Kaggle](https://www.kaggle.com/datasets/hylanj/wifi-csi-dataset-ut-har)**
 
----
-
-## 📁 Repository Structure
-
-```text
-├── data/               # Sample UT-HAR signal files (.npy)  
-├── models/             # Trained deep learning models
-├── src/                # Preprocessing and model pipeline scripts
-├── app.py              # Streamlit web interface application
-└── README.md           # Project documentation
